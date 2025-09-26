@@ -1,11 +1,10 @@
 # 📊 Coffee Sales Dashboard – Excel Project
-This project analyzes coffee sales data from 3 store locations over a 6-month period. The goal was to identify key revenue trends, customer purchasing patterns, and top-selling products using Excel as a full end-to-end analytics tool.
+Overview: This project analyzes coffee sales data from 3 store locations over a 6-month period. The goal was to identify key revenue trends, customer purchasing patterns, and top-selling products using Excel as a full end-to-end analytics tool.
 
 <img width="1372" height="772" alt="image" src="https://github.com/user-attachments/assets/b7a3da8b-93a8-4195-b4ca-7d569aa4d548" />
 
 
-Overview:
-This project analyzes coffee sales data from 3 store locations over a 6-month period. The goal was to identify key revenue trends, customer purchasing patterns, and top-selling products using Excel as a full end-to-end analytics tool.
+
 
 ## 🔧 Tools & Skills Used
 
